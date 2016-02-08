@@ -1,5 +1,6 @@
 # Intro to Git
 ## What is Git and why should you use it?
+Hello World
 Git is a version control system. It helps you organize projects in a way that lets you to:
 - break your work up into manageable pieces
 - modify the same files as several other people
